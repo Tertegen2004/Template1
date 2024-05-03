@@ -427,4 +427,12 @@ html {
    font-size: 17px;
    font-weight: 400;
 }
+@media (max-width:767px) {
+.footer .text p{
+    font-size: 15px;
+}
+.footer .text span{
+   font-size: 14px;
+}
+}
 /* end-footer */
